@@ -6,11 +6,11 @@
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
         
         
-        <class>Cliente</class>
-        <class>Recepcionsta</class>
-        <class>Multa</class>
-        <class>Emprestimo</class>
-        <class>Livro</class>
+        <class>entity.Cliente</class>
+        <class>entity.Recepcionsta</class>
+        <class>entity.Multa</class>
+        <class>entity.Emprestimo</class>
+        <class>entity.Livro</class>
 
         
         <properties>
