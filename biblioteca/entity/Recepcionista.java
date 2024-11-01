@@ -11,7 +11,7 @@ public class Recepcionista {
 
 	private String nome;
 	@Id
-	private String cpf;
+	private String recepcionista_cpf;
 
 	private String email;
 

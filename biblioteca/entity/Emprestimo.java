@@ -13,11 +13,11 @@ public class Emprestimo {
 
 	private String prazo;
 
-	@OneToOne(fetch = FetchType.LAZY)
+	@ManyToOne(fetch = FetchType.LAZY)
 	@JoinColumn(name = "cliente_cpf")
 	private Cliente cliente;
 
-	@OneToOne(fetch = FetchType.LAZY)
+	@ManyToOne(fetch = FetchType.LAZY)
 	@JoinColumn(name = "recepcionista_cpf")
 	private Recepcionista recepcionista;
 

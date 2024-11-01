@@ -11,7 +11,7 @@ public class Cliente {
 	private String nome;
 
 	@Id
-	private String cpf;
+	private String cliente_cpf;
 
 	private Collection<Emprestimo> emprestimo;
 
