@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "biblioteca/JARs/eclipselink.jar",
+        "biblioteca/JARs/jakarta.persistence-api.jar",
+        "biblioteca/JARs/mysql-connector-java-8.0.26.jar"
+    ]
+}
