@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Date;
 
 public class Emprestimo {
@@ -16,7 +15,7 @@ public class Emprestimo {
 
 	private int id;
 
-	private ArrayList<Livro> livros;
+	private ArrayList<Cliente.Livro> livros;
 
 
 }

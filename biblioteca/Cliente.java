@@ -8,4 +8,7 @@ public class Cliente {
 
 	private Collection<Emprestimo> emprestimo;
 
+    public static class Livro {
+
+    }
 }
