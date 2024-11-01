@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="eclipselink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/biblioteca/JARs/eclipselink.jar!/" />
+      <root url="jar://$PROJECT_DIR$/biblioteca/JARs/jakarta.persistence-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/biblioteca/JARs/mysql-connector-java-8.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
