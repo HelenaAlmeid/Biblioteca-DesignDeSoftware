@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Date;
 
 public class Emprestimo {
 
@@ -16,12 +18,5 @@ public class Emprestimo {
 
 	private ArrayList<Livro> livros;
 
-	private Collection<LIvro> lIvro;
-
-	private Collection<Multa> multa;
-
-	private Cliente cliente;
-
-	private Recepcionista recepcionista;
 
 }
