@@ -14,7 +14,7 @@ public class Multa {
 
 	@ManyToOne(fetch = FetchType.LAZY)
 	@JoinColumn(name= "IdEmprestimo")
-	private int idEmprestimo;
+	private Emprestimo emprestimo;
 
 	private double valor;
 
