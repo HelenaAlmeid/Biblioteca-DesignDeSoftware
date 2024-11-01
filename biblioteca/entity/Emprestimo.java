@@ -27,5 +27,8 @@ public class Emprestimo {
 	@OneToMany(mappedBy = "emprestimo")
 	private ArrayList<Livro> livros;
 
+	@OneToMany(mappedBy = "emprestimo")
+	private ArrayList<Multa> multas;
+
 
 }
