@@ -1,4 +1,4 @@
-package src;
+package entity;
 
 import java.util.Collection;
 
