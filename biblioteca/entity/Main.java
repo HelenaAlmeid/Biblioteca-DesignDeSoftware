@@ -10,7 +10,7 @@ public class Main {
 
     Cliente c = new Cliente("julia", "11111");
 
-    EntityManagerFactory emf = Persistence.createEntityManagerFactory("bibliotecaPU");
+    EntityManagerFactory emf = Persistence.createEntityManagerFactory("biblioteca");
 	EntityManager em = emf.createEntityManager();
 		
 	em.getTransaction().begin();
